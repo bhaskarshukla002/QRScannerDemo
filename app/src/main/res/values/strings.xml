@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QRScannerDemo</string>
+    <string name="take_picture">capture</string>
+</resources>
