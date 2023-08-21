@@ -37,9 +37,6 @@ The project follows the default (MVC) Model-View-Controller architecture
 
 This project relies on the following main dependencies:
 
-- **AndroidX Camera Core**: AndroidX Camera Core is part of the AndroidX CameraX library, providing a high-level API for camera functionality. It simplifies camera control, preview, and image analysis.
-   - Dependency: `androidx.camera:camera-core:1.1.0-alpha07`
-
 - **ZXing (Zebra Crossing)**: ZXing is a popular open-source barcode image processing library. In this application, it is used for QR code decoding.
    - Dependency: `com.google.zxing:core:3.4.1`
 
