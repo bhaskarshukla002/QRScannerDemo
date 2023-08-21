@@ -4,13 +4,15 @@
 
 This Android application is a QR code scanner that uses the device's camera to detect and decode QR codes. It provides real-time scanning of QR codes and displays the decoded content on the screen. This project serves as an example of how to use the Android CameraX library for camera access and the ZXing library for QR code decoding.
 
-![App Screenshot](./images/app_screenshot.png)
+
+
+https://github.com/bhaskarshukla002/QRScannerDemo/assets/86822762/2135e955-cc7d-4e70-8e8f-b59c9768f420
+
+
 
 ## Architecture
 
 The project follows the default (MVC) Model-View-Controller architecture
-
-![Architecture Diagram](./images/architecture_diagram.png)
 
 ## How It Works Internally
 
@@ -53,18 +55,13 @@ This project relies on the following main dependencies:
 
 Follow these instructions to build and run the project on your local machine.
 
-### Prerequisites
-
-- Android Studio (latest version)
-- Android SDK with API level 21 or higher
-- Java Development Kit (JDK) 8 or higher
 
 ### Building and Running
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/qr-code-scanner.git
+   git clone https://github.com/bhaskarshukla002/qr-code-scanner.git
 
 2. Open the project in Android Studio.
 
